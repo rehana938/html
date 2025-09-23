@@ -1,0 +1,9 @@
+div{
+    width:100px;
+    height: 200px;
+    padding:20px ;
+    margin: 30px;
+    border: 2px solid violet;
+    border-style: dotted;
+    background-color: aqua;
+}
